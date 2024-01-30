@@ -51,6 +51,14 @@ export default defineConfig({
           // { text: '快捷键快速打开iTerm', link: 'docs/tips/preface' },
           // { text: 'macOS双开微信', link: 'docs/tips/preface' },
         ]
+      },
+      {
+        text: '广告',
+        collapsed: false,
+        items: [
+          { text: '前言', link: 'docs/ads/preface' },
+          { text: '业务', link: 'docs/ads/business' }
+        ]
       }
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }]

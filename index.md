@@ -11,7 +11,7 @@ hero:
       text: 开始阅读
       link: /docs/side-hustle/preface
     - theme: alt
-      text: 关注我
+      text: 关于我
       link: /docs/about
 
 features:
