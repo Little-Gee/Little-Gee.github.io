@@ -33,15 +33,6 @@ export default defineConfig({
       //     { text: 'xxx', link: '/docs/projects/preface' }
       //   ]
       // },
-      // {
-      //   text: '风向标共读',
-      //   collapsed: false,
-      //   items: [
-      //     { text: '前言', link: '/docs/weather-vane/preface' },
-      //     { text: 'xxx', link: '/docs/weather-vane/preface' },
-      //     { text: 'xxx', link: '/docs/weather-vane/preface' }
-      //   ]
-      // },
       {
         text: '小技巧/信息差',
         collapsed: false,
@@ -50,6 +41,14 @@ export default defineConfig({
           // { text: '快捷键快速打开VSCode', link: 'docs/tips/preface' },
           // { text: '快捷键快速打开iTerm', link: 'docs/tips/preface' },
           // { text: 'macOS双开微信', link: 'docs/tips/preface' },
+        ]
+      },
+      {
+        text: '风向标共读',
+        collapsed: false,
+        items: [
+          { text: '前言', link: '/docs/weather-vane/preface' }
+          // { text: 'xxx', link: '/docs/weather-vane/preface' },
         ]
       },
       {
