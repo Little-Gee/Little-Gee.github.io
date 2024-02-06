@@ -37,11 +37,11 @@ export default defineConfig({
         text: '小技巧/信息差',
         collapsed: false,
         items: [
-          { text: '前言', link: 'docs/tips/preface' },
-          { text: 'ios 1比10 充值微信豆', link: 'docs/tips/ios-webeans' },
-          { text: '快捷键快速打开VSCode', link: 'docs/tips/open-vscode' }
-          // { text: '快捷键快速打开iTerm', link: 'docs/tips/preface' },
-          // { text: 'macOS双开微信', link: 'docs/tips/preface' },
+          { text: '前言', link: '/docs/tips/preface' },
+          { text: 'ios 1比10 充值微信豆', link: '/docs/tips/ios-webeans' },
+          { text: '快捷键快速打开VSCode', link: '/docs/tips/open-vscode' },
+          { text: '快捷键快速打开iTerm', link: '/docs/tips/open-iterm' },
+          { text: 'macOS双开微信', link: '/docs/tips/macos-wechat' }
         ]
       },
       {
@@ -56,8 +56,8 @@ export default defineConfig({
         text: '广告',
         collapsed: false,
         items: [
-          { text: '前言', link: 'docs/ads/preface' },
-          { text: '业务', link: 'docs/ads/business' }
+          { text: '前言', link: '/docs/ads/preface' },
+          { text: '业务', link: '/docs/ads/business' }
         ]
       }
     ],
