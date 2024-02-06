@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./chunks/framework.l0MLLx4M.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/tips/open-vscode.md","filePath":"docs/tips/open-vscode.md"}'),s={name:"docs/tips/open-vscode.md"};function c(a,n,p,r,d,i){return t(),o("div")}const f=e(s,[["render",c]]);export{m as __pageData,f as default};
