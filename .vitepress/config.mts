@@ -38,6 +38,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '前言', link: '/docs/tips/preface' },
+          { text: '本网站的搭建', link: '/docs/tips/website-build' },
           { text: 'ios 1比10 充值微信豆', link: '/docs/tips/ios-webeans' },
           { text: '快捷键快速打开VSCode', link: '/docs/tips/open-vscode' },
           { text: '快捷键快速打开iTerm', link: '/docs/tips/open-iterm' },
