@@ -21,18 +21,17 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '前言', link: '/docs/side-hustle/preface' }
-          // { text: '你的观念可能不对', link: '/docs/side-hustle/preface' },
+          // { text: '观念', link: '/docs/side-hustle/preface' },
         ]
       },
-      // {
-      //   text: '小项目',
-      //   collapsed: false,
-      //   items: [
-      //     { text: '前言', link: '/docs/projects/preface' },
-      //     { text: 'xxx', link: '/docs/projects/preface' },
-      //     { text: 'xxx', link: '/docs/projects/preface' }
-      //   ]
-      // },
+      {
+        text: '小项目',
+        collapsed: false,
+        items: [
+          { text: '前言', link: '/docs/projects/preface' },
+          { text: 'cps-淘宝客', link: '/docs/projects/cps-taobao' }
+        ]
+      },
       {
         text: '小技巧/信息差',
         collapsed: false,
