@@ -4,7 +4,21 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: '季小小的碎碎念',
   description: '季小小的碎碎念',
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-T90EDR5PZG'
+      }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-T90EDR5PZG');"
+    ]
+  ],
   srcDir: './',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
