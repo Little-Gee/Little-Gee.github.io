@@ -39,11 +39,12 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '小白副业探索记录',
+        text: '小白副业探索',
         collapsed: false,
         items: [
           { text: '前言', link: '/docs/side-hustle/preface' },
-          { text: '做过的项目', link: '/docs/side-hustle/projects-done' }
+          { text: '做过的项目', link: '/docs/side-hustle/projects-done' },
+          { text: '圈层', link: '/docs/side-hustle/community' }
         ]
       },
       {
