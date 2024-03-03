@@ -17,15 +17,15 @@ export default defineConfig({
       'script',
       {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-T90EDR5PZG');"
-    ],
-    [
-      'script',
-      {
-        async: '',
-        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8150237012929100',
-        crossorigin: 'anonymous'
-      }
     ]
+    // [
+    //   'script',
+    //   {
+    //     async: '',
+    //     src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8150237012929100',
+    //     crossorigin: 'anonymous'
+    //   }
+    // ]
   ],
   srcDir: './',
   themeConfig: {
