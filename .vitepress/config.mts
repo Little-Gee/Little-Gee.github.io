@@ -70,7 +70,7 @@ export default defineConfig({
       },
       {
         text: '风向标共读',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: '前言', link: '/docs/weather-vane/preface' },
           { text: '2024-3', link: '/docs/weather-vane/2024-3' },
