@@ -52,7 +52,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '前言', link: '/docs/projects/preface' },
-          { text: 'cps-淘宝客', link: '/docs/projects/cps-taobao' }
+          { text: 'cps-淘宝客', link: '/docs/projects/cps-taobao' },
+          { text: 'cps-快递100', link: '/docs/projects/cps-express' }
         ]
       },
       {
