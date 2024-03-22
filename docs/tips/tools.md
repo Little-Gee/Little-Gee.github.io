@@ -1,6 +1,22 @@
 收录一些工具/网站等
 
-## 中国执行信息公开网
+## 🔧 工具
+
+### 微信小游戏制作工具
+
+https://gamemaker.weixin.qq.com/#/
+
+可视化的微信小游戏制作工具，像低代码一样搭出小游戏
+
+### 壁纸样机生成器
+
+https://mjcn.club/
+
+上传壁纸，生成 iPhone、iPad、Mac 等机器样式，有小程序版
+
+## 📖 信息查询
+
+### 中国执行信息公开网
 
 http://zxgk.court.gov.cn/
 
@@ -8,13 +24,9 @@ http://zxgk.court.gov.cn/
 
 比如有人问你借大额的钱……
 
-## 微信小游戏制作工具
+## 💰 cps
 
-https://gamemaker.weixin.qq.com/#/
-
-可视化的微信小游戏制作工具，像低代码一样搭出小游戏
-
-## 大疆无人机推广联盟
+### 大疆无人机推广联盟
 
 https://u.dji.com/
 
