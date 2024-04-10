@@ -27,6 +27,9 @@ export default defineConfig({
     //   }
     // ]
   ],
+  sitemap: {
+    hostname: 'https://little-gee.github.io'
+  },
   srcDir: './',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

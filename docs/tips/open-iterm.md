@@ -1,3 +1,5 @@
+# 快捷键快速打开 iTerm
+
 1. 打开系统设置，进入到「**键盘**-**键盘快捷键**」
 
 <img src="/imgs/tips/keyboard-shortcut.png"  />
