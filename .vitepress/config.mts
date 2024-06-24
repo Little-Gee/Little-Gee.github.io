@@ -69,7 +69,8 @@ export default defineConfig({
           { text: 'ios 1比10 充值微信豆', link: '/docs/tips/ios-webeans' },
           { text: '快捷键快速打开VSCode', link: '/docs/tips/open-vscode' },
           { text: '快捷键快速打开iTerm', link: '/docs/tips/open-iterm' },
-          { text: 'macOS双开微信', link: '/docs/tips/macos-wechat' }
+          { text: 'macOS双开微信', link: '/docs/tips/macos-wechat' },
+          { text: '关闭微信开发者工具打开外部终端快捷键', link: '/docs/tips/close-terminal-key' }
         ]
       },
       {
