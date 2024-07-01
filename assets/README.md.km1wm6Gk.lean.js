@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,V as r}from"./chunks/framework.LLn18gvy.js";const f=JSON.parse('{"title":"季小小的碎碎念","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),o={name:"README.md"},i=r("",10),n=[i];function s(h,c,l,_,d,p){return t(),e("div",null,n)}const m=a(o,[["render",s]]);export{f as __pageData,m as default};
