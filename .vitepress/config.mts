@@ -38,6 +38,14 @@ export default defineConfig({
     },
     nav: [
       { text: '🏠 首页', link: '/' },
+      {
+        text: '小产品',
+        items: [
+          { text: '躺平小目标', link: '/docs/products/retirementgoal' },
+          { text: '壁纸样机生成器', link: 'https://phonemockup.top/' }
+        ]
+      },
+      { text: '业务', link: '/docs/ads/business' },
       { text: '关于', link: '/docs/about' }
     ],
     sidebar: [
@@ -48,6 +56,15 @@ export default defineConfig({
           { text: '前言', link: '/docs/side-hustle/preface' },
           { text: '做过的项目', link: '/docs/side-hustle/projects-done' },
           { text: '圈层', link: '/docs/side-hustle/community' }
+        ]
+      },
+      {
+        text: '小产品',
+        collapsed: false,
+        items: [
+          { text: '前言', link: '/docs/products/preface' },
+          { text: '躺平小目标', link: '/docs/products/retirementgoal' },
+          { text: '壁纸样机生成器', link: '/docs/products/phonemockup' }
         ]
       },
       {
