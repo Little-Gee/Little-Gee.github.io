@@ -8,6 +8,10 @@
 
 这种属于**特惠件**，可以看[这篇文章](https://mp.weixin.qq.com/s/kUcCDqSkZlItK6R8BoEBaQ)了解一下
 
+不介意的话可以直接用我的
+
+<img src="/imgs/projects/cps-express-mine.png" width="500"   />
+
 ## 操作步骤
 
 1. 搜公众号「**快递 100**」
