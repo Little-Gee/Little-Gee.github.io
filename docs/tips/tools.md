@@ -22,6 +22,22 @@ https://gamemaker.weixin.qq.com/#/
 
 视频剪辑-编辑-右上角保存的地方点击三个点（更多功能）-选择 Live 实况
 
+### Mac 设置触控板和鼠标滚动方向
+
+我的 macOS 版本是 Sonoma 14.5
+
+正常是「系统设置-鼠标/键盘-自然滚动」里设置滚动的方向
+
+但是有一个问题是，这个开关要打开就都打开，要关闭就都关闭，鼠标和键盘是联动的
+
+我想要的是方向不同的，触控板默认设置就行，但是鼠标滚轮的默认设置与 windows 是相反的，不习惯
+
+最终找到了个解决方案 [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
+
+在设置里面勾选想要的效果就行
+
+<img src="/imgs/tips/scroll-reverser.png" width="500" />
+
 ## 📖 信息查询
 
 ### 中国执行信息公开网

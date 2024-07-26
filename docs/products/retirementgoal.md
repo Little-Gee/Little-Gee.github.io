@@ -4,4 +4,4 @@
 
 给自己一个存钱/躺平/退休的小目标
 
-<img src="/imgs/products/retirementgoal.jpg" width="300"   />
+<img src="/imgs/products/retirementgoal.jpg" width="300" />
