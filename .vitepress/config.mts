@@ -41,8 +41,9 @@ export default defineConfig({
       {
         text: '小产品',
         items: [
-          { text: '躺平小目标', link: '/docs/products/retirementgoal' },
-          { text: '壁纸样机生成器', link: 'https://phonemockup.top/' }
+          { text: '小小快捷加水印', link: '/docs/products/watermark' },
+          { text: '躺平小目标', link: '/docs/products/retirementgoal' }
+          // { text: '壁纸样机生成器', link: 'https://phonemockup.top/' }
         ]
       },
       { text: '业务', link: '/docs/ads/business' },
@@ -59,12 +60,21 @@ export default defineConfig({
         ]
       },
       {
+        text: '广告',
+        collapsed: false,
+        items: [
+          { text: '前言', link: '/docs/ads/preface' },
+          { text: '业务', link: '/docs/ads/business' }
+        ]
+      },
+      {
         text: '小产品',
         collapsed: false,
         items: [
           { text: '前言', link: '/docs/products/preface' },
-          { text: '躺平小目标', link: '/docs/products/retirementgoal' },
-          { text: '壁纸样机生成器', link: '/docs/products/phonemockup' }
+          { text: '小小快捷加水印', link: '/docs/products/watermark' },
+          { text: '躺平小目标', link: '/docs/products/retirementgoal' }
+          // { text: '壁纸样机生成器', link: '/docs/products/phonemockup' }
         ]
       },
       {
@@ -98,14 +108,6 @@ export default defineConfig({
           { text: '2024-4', link: '/docs/weather-vane/2024-4' },
           { text: '2024-3', link: '/docs/weather-vane/2024-3' },
           { text: '2024-2', link: '/docs/weather-vane/2024-2' }
-        ]
-      },
-      {
-        text: '广告',
-        collapsed: false,
-        items: [
-          { text: '前言', link: '/docs/ads/preface' },
-          { text: '业务', link: '/docs/ads/business' }
         ]
       }
     ],
