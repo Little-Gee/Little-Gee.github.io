@@ -44,7 +44,7 @@
 
 ## 微信
 
-欢迎链接，微信：lalalaGiGie，请备注来源和来意
+欢迎链接，微信：lalalaGiGie，请备注「**博客**」
 
 <img src="/imgs/qrcode-wechat.png" width="180" height="180" style="margin:10px" />
 
