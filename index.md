@@ -14,7 +14,7 @@ hero:
       text: 关于我
       link: /docs/about
   image:
-    src: /imgs/logo.png
+    src: /logo.png
     alt: logo
 
 features:
