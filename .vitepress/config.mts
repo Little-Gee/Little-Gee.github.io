@@ -33,6 +33,17 @@ export default defineConfig({
   srcDir: './',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    // 文章翻页
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇'
+    },
+    // 移动端 - 外观
+    darkModeSwitchLabel: '外观',
+    // 移动端 - 返回顶部
+    returnToTopLabel: '返回顶部',
+    // 移动端 - menu
+    sidebarMenuLabel: '菜单',
     outline: {
       label: '目录'
     },
