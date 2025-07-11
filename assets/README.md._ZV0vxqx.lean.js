@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,V as r}from"./chunks/framework.-GLon1hK.js";const u=JSON.parse('{"title":"季小小的碎碎念","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),o={name:"README.md"},i=r("",10),h=[i];function n(s,l,c,p,_,d){return t(),e("div",null,h)}const m=a(o,[["render",n]]);export{u as __pageData,m as default};
