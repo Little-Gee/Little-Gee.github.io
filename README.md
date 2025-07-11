@@ -1,6 +1,6 @@
 # 季小小的碎碎念
 
-<a href="https://little-gee.github.io/">点此阅读</a>
+<a href="https://little-gee.github.io/">点此阅读</a>——<a href="https://little-gee.netlify.app/">备用链接</a>
 
 在这里，会记录一些我探索副业的想法、一些小项目，等等
 
