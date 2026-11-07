@@ -37,3 +37,5 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: .vitepress/dist
+          # 每次部署都压成一个提交，避免 gh-pages 历史无限增长
+          SINGLE_COMMIT: true
