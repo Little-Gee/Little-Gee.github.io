@@ -1,4 +1,7 @@
 {
+  "name": "little-gee-github-io",
+  "private": true,
+  "packageManager": "pnpm@12.16.1",
   "devDependencies": {
     "vitepress": "1.0.0-rc.39"
   },

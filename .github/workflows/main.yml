@@ -12,17 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [20]
+        node-version: [24]
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: pnpm/action-setup@v2
+      # 版本自动取自 package.json 的 packageManager 字段，保证与 pnpm-lock.yaml 匹配
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
         with:
-          version: 8
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 20
+          node-version: 24
           cache: pnpm
 
       - name: Install dependencies
