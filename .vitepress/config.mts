@@ -52,8 +52,8 @@ export default defineConfig({
       {
         text: '小产品',
         items: [
-          { text: '小小文件处理器', link: '/docs/products/fileprocessor' }
-          // { text: '小小快捷加水印', link: '/docs/products/watermark' },
+          { text: '小小文件处理器', link: '/docs/products/fileprocessor' },
+          { text: '哄娃睡觉白噪音', link: '/docs/products/whitenoise' }
           // { text: '躺平小目标', link: '/docs/products/retirementgoal' }
           // { text: '壁纸样机生成器', link: 'https://phonemockup.top/' }
         ]
@@ -82,7 +82,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '前言', link: '/docs/products/preface' },
-          { text: '小小文件处理器', link: '/docs/products/fileprocessor' }
+          { text: '小小文件处理器', link: '/docs/products/fileprocessor' },
+          { text: '哄娃睡觉白噪音', link: '/docs/products/whitenoise' }
           // { text: '小小快捷加水印', link: '/docs/products/watermark' },
           // { text: '躺平小目标', link: '/docs/products/retirementgoal' }
           // { text: '壁纸样机生成器', link: '/docs/products/phonemockup' }
